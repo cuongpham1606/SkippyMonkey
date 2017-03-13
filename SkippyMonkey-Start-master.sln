@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkippyMonkey-Start-master", "SkippyMonkey-Start-master.csproj", "{8C222E19-251A-9D22-B46A-43402CD7CA41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkippyMonkey-Start-master.Editor", "SkippyMonkey-Start-master.Editor.csproj", "{0CA04239-C3F4-13DF-72F5-F3D296F10B84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C222E19-251A-9D22-B46A-43402CD7CA41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C222E19-251A-9D22-B46A-43402CD7CA41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C222E19-251A-9D22-B46A-43402CD7CA41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C222E19-251A-9D22-B46A-43402CD7CA41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CA04239-C3F4-13DF-72F5-F3D296F10B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA04239-C3F4-13DF-72F5-F3D296F10B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA04239-C3F4-13DF-72F5-F3D296F10B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA04239-C3F4-13DF-72F5-F3D296F10B84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
